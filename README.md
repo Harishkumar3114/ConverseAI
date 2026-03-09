@@ -37,7 +37,7 @@ The application demonstrates how modern web technologies can be combined with la
   Backend APIs built with Express manage chat requests, authentication, and database interactions.
 
 - **Responsive Interface**  
-  The frontend is implemented using React to deliver a clean and responsive chat experience across devices.
+  The frontend is implemented using React to deliver a clean and responsive chat experience across many devices.
 
 ---
 
